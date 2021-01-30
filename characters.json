@@ -1,0 +1,127 @@
+[
+{
+  "first_name": "",
+  "middle_name": "",
+  "last_name": "",
+  "also_known_as": [],
+  "birth_date": "",
+  "death_date": "",
+  "species": "",
+  "school": "",
+  "school_house": "",
+  "actor": "",
+  "family": {
+    "mother": "",
+    "father": "",
+    "sons": [],
+    "daughters": [],
+    "brothers": [],
+    "sisters": [],
+    "aunts": [],
+    "uncles": [],
+    "cousins": [],
+    "grandmother": [],
+    "grandfather": []
+  },
+  "wand": {
+    "wood": "",
+    "core": "",
+    "length": 0
+  },
+  "blood_status": ""
+},
+{
+  "first_name": "Harry",
+  "middle_name": "James",
+  "last_name": "Potter",
+  "also_known_as": ["The Boy Who Lived", "The Chosen One", "Tri-wizard Champion", "Master of Death", "Undesirable Number One", "Parry Otter", "Vernon Dudley", "Boy!"],
+  "birth_date": "31/07/1980",
+  "death_date": "",
+  "species": "Wizard",
+  "school": "Hogwarts School of Witchcraft and Wizardry",
+  "school_house": "Gryffindor",
+  "actor": "Daniel Radcliffe",
+  "family": {
+    "mother": "Lilly Potter",
+    "father": "James Potter",
+    "sons": [],
+    "daughters": [],
+    "brothers": [],
+    "sisters": [],
+    "aunts": ["Petunia Dursley"],
+    "uncles": ["Vernon Dursley"],
+    "cousins": ["Dudley Dursley"],
+    "grandmother": [],
+    "grandfather": []
+  },
+  "wand": {
+    "wood": "Holly",
+    "core": "Phoenix Tail Feather",
+    "length": 11
+  },
+  "blood_status": "Half-Blood"
+},
+{
+  "first_name": "Hermione",
+  "middle_name": "Jean",
+  "last_name": "Granger",
+  "also_known_as": ["Hermy", "Hermy-own", "Penelope Clearwater", "Brightest Witch of Her Age"],
+  "birth_date": "19/09/1979",
+  "death_date": "",
+  "species": "Witch",
+  "school": "Hogwarts School of Witchcraft and Wizardry",
+  "school_house": "Gryffindor",
+  "actor": "Emma Watson",
+  "family": {
+    "mother": "Mrs. Granger",
+    "father": "Mr. Granger",
+    "sons": ["Hugo Weasley"],
+    "daughters": ["Rose Weasley"],
+    "brothers": [],
+    "sisters": [],
+    "aunts": [],
+    "uncles": [],
+    "cousins": [],
+    "grandmother": [],
+    "grandfather": []
+  },
+  "wand": {
+    "wood": "Vine",
+    "core": "Dragon Heartstring",
+    "length": 10.75
+  },
+  "blood_status": "Muggle-Born"
+},
+{
+  "first_name": "Ronald",
+  "middle_name": "Bilius",
+  "last_name": "Weasley",
+  "also_known_as": ["Wheezy", "Roonil Wazlib", "Ickle Ronnikins", "Won-Won"],
+  "birth_date": "01/03/1980",
+  "death_date": "",
+  "species": "Wizard",
+  "school": "Hogwarts School of Witchcraft and Wizardry",
+  "school_house": "Gryffindor",
+  "actor": "Rupert Grint",
+  "family": {
+    "mother": "Molly Weasley",
+    "father": "Arthur Weasley",
+    "sons": ["Hugo Weasley"],
+    "daughters": ["Rose Weasley"],
+    "brothers": ["Bill Weasley", "Charlie Weasley", "Percy Weasley", "Fred Weasley", "George Weasley"],
+    "sisters": ["Ginny Weasley"],
+    "aunts": ["Aunt Muriel", "Great Aunt Tessie"],
+    "uncles": ["Bilius Weasley", "Gideon Pruitt", "Fabian Pruitt"],
+    "cousins": [],
+    "grandmother": [],
+    "grandfather": []
+  },
+  "wand": {
+    "wood": "Willow",
+    "core": "Unicorn Hair",
+    "length": 14
+  },
+  "blood_status": "Pure-Blood"
+}
+]
+
